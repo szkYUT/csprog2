@@ -17,5 +17,5 @@ int main(void)
 
 int sum_range(int *ptr, int s, int e)
 {
-
+    *test[s]+*test[e-s]+*test[e];
 }
